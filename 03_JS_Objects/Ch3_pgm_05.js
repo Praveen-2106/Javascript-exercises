@@ -6,7 +6,9 @@ book = {
     title : "The Hobbit"
 };
 
-
+book2 ={
+    title : "A tale of two cities"
+}
 
 /* Further Adventures
  *

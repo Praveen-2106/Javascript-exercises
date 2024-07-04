@@ -10,8 +10,17 @@ book = {
 
 console.log(book.title);
 console.log(book.author);
+console.log(book.published);
 
+book2 = {
+	title : "Northern Lights",
+	author : "Philip Pullman",
+    year : 1859
+};
 
+console.log(book.title);
+console.log(book.author);
+console.log(book.published);
 
 /* Further Adventures
  *

@@ -3,15 +3,19 @@
 var book;
 
 book = {
-    title : "The Hobbit",
+    title : "The Hobbit, or There and Back Again",
     author : "J. R. R. Tolkien",
     published : 1937
 };
 
 console.log(book);
 
-
-
+book2={
+    title : "A tale of two cities",
+    author :"Charles Dickens",
+    published : 1859
+};
+console.log(book2);
 /* Further Adventures
  *
  * 1) Change the title of book to

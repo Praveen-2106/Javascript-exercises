@@ -9,6 +9,18 @@ bookAuthor = "J. R. R. Tolkien";
 console.log(bookTitle + " by " + bookAuthor);
 
 
+bookTitle = "HarryPotter";
+bookAuthor = "J.K. Rowling";
+
+console.log(bookTitle + " by " + bookAuthor);
+
+
+bookTitle = "Animal Farm";
+bookAuthor = "George Orwell";
+
+console.log(bookTitle + " by " + bookAuthor);
+
+
 
 /* Further Adventures
  *
